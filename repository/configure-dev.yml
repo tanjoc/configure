@@ -1,0 +1,6 @@
+spring:
+  appliction:
+    name: configure-service
+    
+server:
+  port: 8888
